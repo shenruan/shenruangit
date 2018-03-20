@@ -19,4 +19,4 @@ Git has a mutable index called stage\
 Git tracks changes of files.\
 Creating a 
 \f1\b \cf4 new
-\f0\b0 \cf2  branch is quick and simple \cf5 \cb3 coding: utf-8\cf2 \cb3 .}
+\f0\b0 \cf2  branch is quick and simple \cf5 coding: utf-8\cf2 .}
