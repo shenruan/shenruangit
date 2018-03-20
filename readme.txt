@@ -1,9 +1,9 @@
 {\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf100
 {\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fmodern\fcharset0 Courier-Bold;}
 {\colortbl;\red255\green255\blue255;\red52\green52\blue52;\red249\green249\blue249;\red38\green38\blue38;
-}
+\red210\green0\blue53;}
 {\*\expandedcolortbl;;\cssrgb\c26667\c26667\c26667;\cssrgb\c98039\c98039\c98039;\cssrgb\c20000\c20000\c20000;
-}
+\cssrgb\c86667\c6667\c26667;}
 \paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
 \deftab720
 \pard\pardeftab720\partightenfactor0
@@ -19,4 +19,4 @@ Git has a mutable index called stage\
 Git tracks changes of files.\
 Creating a 
 \f1\b \cf4 new
-\f0\b0 \cf2  branch is quick and simple \'97+++\'97.}
+\f0\b0 \cf2  branch is quick and simple \cf5 \cb3 coding: utf-8\cf2 \cb3 .}
